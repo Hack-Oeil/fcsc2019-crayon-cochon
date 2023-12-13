@@ -28,4 +28,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/fr/challenges/pwn/fcsc2019-crayon-cochon/
+> https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-crayon-cochon/
