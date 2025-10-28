@@ -3,7 +3,7 @@
 Cette épreuve avait été proposée lors de l’entrainement de la Team France en septembre 2019.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Crayon Cochon](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-crayon-cochon/)
 
