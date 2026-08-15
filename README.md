@@ -9,7 +9,7 @@ Origine : [Crayon Cochon](https://hackropole.fr/fr/challenges/crypto/fcsc2019-cr
 
 
 ## Challenge
-![crayon-cochon.png](crayon-cochon.png)
+![files/crayon-cochon.png](files/crayon-cochon.png)
 
 
 
